@@ -1,0 +1,36 @@
+h1{
+    margin-bottom: auto;
+}
+
+body{
+    background-color: white;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   border: 2px solid white;
+   box-shadow: 0 8px 20px black;
+        padding: 30px;
+        height: 370px;
+        width: 283px;
+        margin-left: 550px;
+        margin-top: 140px;
+        background-color: white;
+        border-radius: 20px;
+}
+ img{
+        height: 250px;
+        width: 250px;
+        
+       border: 2px solid white;
+        border-radius: 4000px;
+    }
+    button{
+        background-color: blueviolet;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 15px;
+    }
